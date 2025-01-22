@@ -16,5 +16,5 @@ This program allows users to:
 ✅ **Delete words** 🗑️  
 ✅ **View the entire dictionary** 📜  
 
-📜 **[Click here to view the full program]((https://github.com/swarooprani/Python-Lab-Programs/blob/3e830aa816b1f9dc02c04caba258ac110309b164/Termwork-1.py))**  
+📜 **[Click here to view the full program]([(https://github.com/swarooprani/Python-Lab-Programs/blob/3e830aa816b1f9dc02c04caba258ac110309b164/Termwork-1.py)])**  
 
