@@ -7,10 +7,12 @@ This collection is designed for **students, beginners, and anyone exploring Pyth
 
 ## 🔹 Featured Programs  
 ### 1)📖 Python Dictionary Program  
-**Python Laboratory Program to demonstrate the working of dictionary data structure of Python Programming**  
+**Python Program to demonstrate the working of dictionary data structure of Python Programming**  
 ### 2) User defined functions in python
-**Python Laboratory Program to demonstrate the working of user defined functions in Python Programming**
+**Python Program to demonstrate the working of user defined functions in Python Programming**
 ### 4) Object Oriented Concepts
-**Python Laboratory Program to demonstrate the OOP concepts in Python Programming**
+**Python Program to demonstrate the OOP concepts in Python Programming**
+### 5) Operator Overloading 
+**Python program to demonstrate operator overloading using magic method __add__
 
 
