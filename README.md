@@ -6,12 +6,14 @@ Welcome to the **Python Laboratory Programs Repository**! 🎯 This repository c
 This collection is designed for **students, beginners, and anyone exploring Python**. Each program focuses on a specific concept to help with **hands-on learning**.  
 
 ## 🔹 Featured Programs  
-### 1)📖 Python Dictionary Program  
-**Python Program to demonstrate the working of dictionary data structure of Python Programming**  
+### 1) Python Dictionary Program  
+**Python Program to demonstrate the working of dictionary data structure**  
 ### 2) User defined functions in python
-**Python Program to demonstrate the working of user defined functions in Python Programming**
+**Python Program to demonstrate the working of user defined functions**
+### 3) Getting Started with SQLite3 in Python
+**A Simple Guide to demonstrate working with database**
 ### 4) Object Oriented Concepts
-**Python Program to demonstrate the OOP concepts in Python Programming**
+**Python Program to demonstrate the OOP concepts**
 ### 5) Operator Overloading 
 **Python program to demonstrate operator overloading using magic method __add__
 
