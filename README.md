@@ -16,5 +16,7 @@ This collection is designed for **students, beginners, and anyone exploring Pyth
 **Python Program to demonstrate the OOP concepts**
 ### 5) Operator Overloading 
 **Python program to demonstrate operator overloading using magic method __add__
+### 6) how to execute many queries in a single statement
+**Handling bulk database operations is easy with executemany method
 
 
