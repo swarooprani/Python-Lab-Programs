@@ -20,5 +20,7 @@ This collection is designed for **students, beginners, and anyone exploring Pyth
 **Handling bulk database operations is easy with executemany method**
 ### 7) Program to demonstrate GUI application using tkinter
 **Making use of various tkinter widgets**
+### 8) Program to demonstrate the basic array creation using numpy methods
+**Making use of various numpy methods**
 
 
