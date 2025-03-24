@@ -18,5 +18,7 @@ This collection is designed for **students, beginners, and anyone exploring Pyth
 **Python program to demonstrate operator overloading using magic method __add__**
 ### 6) how to execute many queries in a single statement
 **Handling bulk database operations is easy with executemany method**
+### 7) Program to demonstrate GUI application using tkinter
+**Making use of various tkinter widgets**
 
 
